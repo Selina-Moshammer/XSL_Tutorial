@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tSTyle.xsl"?>
+<catalog>
+<person>
+    <title>Fr.</title>
+    <name>Selina</name>
+    <lastname>Moshammer</lastname>
+    <year>2003</year>
+</person>
+<person>
+    <title>Fr.</title>
+    <name>Tamara</name>
+    <lastname>Enser</lastname>
+    <year>2003</year>
+</person>
+<person>
+    <title>Hr.</title>
+    <name>Fabian</name>
+    <lastname>Schnoetzinger</lastname>
+    <year>2002</year>
+</person>
+
+
+</catalog>
